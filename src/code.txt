@@ -1,1 +1,1 @@
-find doctors  for  ENT time=11
+find doctors  for  ENT time=10
